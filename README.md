@@ -1,6 +1,6 @@
 # Virtual Workout Pose Estimator
 
-![Virtual Workout Pose Estimator Logo](https://example.com/virtual_workout_pose_estimator_logo.png)
+![Virtual Workout Pose Estimator Logo](Action-300x268.png)
 
 The Virtual Workout Pose Estimator is a Python-based application that utilizes computer vision and deep learning techniques to estimate and track the poses of a person performing bicep curls during a workout session. It provides real-time feedback on the accuracy of the exercise form and counts the repetitions completed.
 
